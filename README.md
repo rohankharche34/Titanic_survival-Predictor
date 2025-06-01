@@ -24,7 +24,7 @@ The dataset used is the [Titanic dataset from Kaggle](https://www.kaggle.com/c/t
 
 - `train.csv`: Contains labeled data with features and the target (`Survived`).
 - `test.csv`: Contains unlabeled data for prediction.
-- `test_target.csv`: Target variable for the test data. 
+- `test_target.csv`: Target variable for the test data. (Original name of the csv file in Kaggle: `gender_submission.csv`)
 
 ---
 
