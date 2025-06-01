@@ -1,7 +1,7 @@
 # Titanic_survival-Predictor
 # 🚢 Titanic Survival Predictor
 
-A machine learning project to predict passenger survival on the Titanic using classification algorithms like Random Forest, XGBoost, and more. Built using Python and various data science libraries. This project is part of my learning journey in data science and machine learning.
+A machine learning project to predict passenger survival on the Titanic using classification algorithms: Random Forest, LightGBM as base models and then stacking them using Stacking Classifier using XGBoost as meta model. Built using Python and various data science libraries. This project is part of my learning journey in data science and machine learning.
 
 ## 🔍 Overview
 
