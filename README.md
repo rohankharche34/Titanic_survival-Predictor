@@ -56,14 +56,14 @@ git clone https://github.com/rohankharche34/titanic-survival-predictor.git
 cd titanic-survival-predictor
 ```
 
-## Setup a virtual environment (if needed)
+### Setup a virtual environment (if needed)
 
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 
-## Install the required packages
+### Install the required packages
 ```bash
 pip install -r requirements.txt
 ```
